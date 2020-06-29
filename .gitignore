@@ -1,0 +1,11 @@
+client/node_modules
+client/.pnp
+client/coverage
+client/build
+
+api/node_modules
+api/.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
