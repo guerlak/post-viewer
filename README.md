@@ -6,7 +6,7 @@
 
 - `yarn`
 
-- Renomeie .env.example para .env e editar os parametros se necessário.
+- Renomeie `.env.example` para `.env` e edite os parametros se necessário.
 
 - `yarn dev:server`
 
